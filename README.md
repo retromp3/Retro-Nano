@@ -7,3 +7,7 @@ Retro Nano is an attempt to bring back the iPod Nano 6th Gen. experience to Watc
 Currently it's all UI, but it is somewhat functional. You can play some of the pre-loaded songs and open a couple menus, but that's about it. There's a lot that needs to be done, but feel free to play around with it and contribute!
 
 The end-goal is to have it support Apple Music + Spotify, which frankly is easier said than done.
+
+
+# Icons
+https://www.dropbox.com/s/nn0o6c8ftp4flfj/Retro%20Nano.fig?dl=0
